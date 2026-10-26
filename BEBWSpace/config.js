@@ -79,6 +79,12 @@ window.MYSPACE_CONFIG = {
     // Add your own .mp3, .wav, or .ogg files to `assets/audio/` and list them here!
     tracks: [
       {
+        title: "Crawling in My Skin [8-Bit Chiptune Mix]",
+        artist: "Linkin Park (Silvermoon 8-Bit Tribute)",
+        src: "assets/audio/crawling-8bit.wav",
+        plays: "1,337,420"
+      },
+      {
         title: "Crying in the Sunwell (Ft. DJ Mana Tap)",
         artist: "Blood Elf Bath Water",
         src: "assets/audio/silvermoon-emo-2007.wav",
